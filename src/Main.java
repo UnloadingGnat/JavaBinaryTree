@@ -8,9 +8,6 @@
  *      add 14 data points to BST (including repeated numbers). Then find 2 data points. Count occurrences of repeated 72
  *      Display BST in ascending and descending order
  *
- *      [WORKING - remove(BinaryTree node, int num)] Remove a number from BST, by passing the tree, does this 3 times, and with repeated numbers
- *
- *      [NOT WORKING - removeNum(int num)] - Remove num, by having the parent node remove a number in the child node's stead.
  * </p>
  *
  * @date 2022/01/12
