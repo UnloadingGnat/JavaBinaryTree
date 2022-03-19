@@ -2,7 +2,7 @@
 
 A Binary Tree I implemented in Java.
 
-Uses a small(15) dataset for the binary tree for function demonstration purposes, and debugging.
+Uses a small(15) dataset for the binary tree for function demonstration purposes.
  
 1. add 14 data points to BST (including repeated numbers). 
 2. Then finds 2 data points.
